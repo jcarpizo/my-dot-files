@@ -1,0 +1,17 @@
+!! Appearance
+urxvt.termName: rxvt-unicode-256color
+urxvt.scrollBar: false
+urxvt.background: #1c1c1c
+urxvt.foreground: white
+!! Font prefferenes
+urxvt.boldFont: xft:Ubuntu\ Mono\ derivative\ Powerline:pixelsize=17:weight=bold
+urxvt.font: xft:Ubuntu\ Mono\ derivative\ Powerline:pixelsize=16
+
+urxvt.letterSpace: -1
+!! Larger history limit
+urxvt.saveLines: 1000000
+urxvt.urgentOnBell: false
+urxvt.visualBell: false
+urxvt.perl-ext-common: default,resize-font
+!!  urxvt.cursorColor: #458588
+urxvt.iconFile: /home/jcarpizo/icon/symfony.svg
