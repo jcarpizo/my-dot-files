@@ -1,3 +1,5 @@
+#Jasper Carpizo
+
 https://github.com/neoclide/coc.nvim/issues/651
 
 : call coc#util#install()
